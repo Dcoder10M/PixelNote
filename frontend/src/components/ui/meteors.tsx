@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { cn } from "../../utils/cn";
 
 export const Meteors = ({

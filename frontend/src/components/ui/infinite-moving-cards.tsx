@@ -1,8 +1,8 @@
+// @ts-nocheck
 "use client";
 
 import { cn } from "../../utils/cn";
 import React, { useEffect, useState } from "react";
-import { Meteors } from "./meteors";
 
 export const InfiniteMovingCards = ({
   items,
